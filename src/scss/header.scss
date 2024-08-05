@@ -1,0 +1,51 @@
+header {
+  z-index: 1;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+  span {
+    font-size: 1rem;
+    font-weight: 600;
+    &:hover {
+      cursor: pointer;
+      text-decoration: underline;
+    }
+  }
+}
+
+.quantityCart {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: 70px;
+
+  input {
+    text-align: center;
+    margin-top: 10px;
+    width: 30px;
+    height: 15px;
+    border: none;
+  }
+  .quantityButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15px;
+    height: 15px;
+    border: none;
+  }
+}
+
+.account {
+  text-decoration: none;
+  color: black;
+}
+
+.delete {
+  transform: translate(0, -25px);
+  &:hover {
+    cursor: pointer;
+  }
+}

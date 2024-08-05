@@ -1,0 +1,199 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "KIA New Morning",
+      "type": "hatchback",
+      "images": [
+        "https://kiavietnam.com.vn/storage/360/new-morning/mau-xanh.png",
+        "https://kiavietnam.com.vn/storage/360/new-morning/trang.png",
+        "https://kiavietnam.com.vn/storage/360/new-morning/vang-mat-ong.png",
+        "https://kiavietnam.com.vn/storage/360/new-morning/do.png"
+      ],
+      "image": "https://kiavietnam.com.vn/storage/l-newmorning-xline-do-small.png",
+      "content": "Mẫu xe nhỏ cho trải nghiệm lớn - đó chính là Morning với tiêu chuẩn châu Âu lần đầu tiên xuất hiện tại Việt Nam, giờ đây những trải nghiệm lái xe sẽ trở nên lý thú và tuyệt vời hơn bao giờ hết.",
+      "count": 1,
+      "price": 349000000,
+      "inventory": -3
+    },
+    {
+      "id": "2",
+      "name": "KIA Morning",
+      "type": "hatchback",
+      "images": [
+        "https://kiavietnam.com.vn/storage/bac.png",
+        "https://kiavietnam.com.vn/storage/do.png",
+        "https://kiavietnam.com.vn/storage/vang-cat.png",
+        "https://kiavietnam.com.vn/storage/xanh-duong.png"
+      ],
+      "image": "https://kiavietnam.com.vn/storage/morning-logo-cu.png",
+      "content": "Phong cách thiết kế hoàn toàn mới, ấn tượng và đầy cá tính.Nhấn mạnh tính thể thao, kiểu dáng thời trang và kích thước tối ưu",
+      "count": 1,
+      "price": 366000000
+    },
+    {
+      "id": "3",
+      "name": "KIA Soluto ",
+      "type": "sedan",
+      "images": [
+        "https://kiavietnam.com.vn/storage/360/soluto/xanh-1.png",
+        "https://kiavietnam.com.vn/storage/360/soluto/den-1.png",
+        "https://kiavietnam.com.vn/storage/360/soluto/do-1.png",
+        "https://kiavietnam.com.vn/storage/360/soluto/trang-1.png"
+      ],
+      "image": "https://kiavietnam.com.vn/storage/soluto-pngicon.png",
+      "content": "Mẫu xe hoàn toàn mới thuộc phân khúc B-Sedan với thiết kế thông minh: bên ngoài trẻ trung năng động, bên trong rộng rãi và đầy đủ tiện nghi – là lựa chọn tối ưu cho khách hàng yêu thích KẾT NỐI CÁC GIÁ TRỊ THẬT, phục vụ cho nhu cầu cá nhân, gia đình trẻ, cũng như kinh doanh dịch vụ vận chuyển hành khách một cách hiệu quả.",
+      "count": 1,
+      "price": 386000000
+    },
+    {
+      "id": "4",
+      "name": "KIA K3",
+      "type": "sedan",
+      "images": [
+        "https://kiavietnam.com.vn/storage/k3-xam.png",
+        "https://kiavietnam.com.vn/storage/k3-do.png",
+        "https://kiavietnam.com.vn/storage/k3-xanhsam.png",
+        "https://kiavietnam.com.vn/storage/k3-trang.png"
+      ],
+      "image": "https://kiavietnam.com.vn/storage/k3-xanh.png",
+      "content": "Thấu hiểu được nhu cầu của khách hàng, với chiến lược phát triển trở thành nhà cung cấp giải pháp di động thông minh (Smart mobility solutions), KIA đã không ngừng đổi mới và sáng tạo, ứng dụng các công nghệ thông minh phát triển sản phẩm thế hệ mới trong đó có Kia K3. Kia K3 cũng là kì vọng của KIA hướng đến những khách hàng trẻ đam mê chinh phục và mong muốn khám phá những trải nghiệm mới. Với vai trò một người bạn đồng hành, mẫu xe là lựa chọn lý tưởng định hình cho phong cách sống thông minh “Smart Lifestyle” của khách hàng trẻ thời đại mới.",
+      "count": 1,
+      "price": 549000000
+    },
+    {
+      "id": "5",
+      "name": "KIA K5",
+      "type": "sedan",
+      "images": [
+        "https://kiavietnam.com.vn/storage/k5-do.png",
+        "https://kiavietnam.com.vn/storage/k5-xam.png",
+        "https://kiavietnam.com.vn/storage/k5-trang.png"
+      ],
+      "image": "https://kiavietnam.com.vn/storage/k5-xanhsam.png",
+      "content": "KIA K5 – là mẫu xe Sedan “Fastback” thể thao thế hệ mới trong nhóm K series, thay đổi toàn diện với đường nét thiết kế của tương lai đậm chất thể thao, sang trọng; trang bị tiện nghi hiện đại và hệ thống an toàn tiên tiến nhất.​",
+      "count": 1,
+      "price": 859000000
+    },
+    {
+      "id": "6",
+      "name": "KIA Sonet",
+      "type": "suv",
+      "images": [
+        "https://kiavietnam.com.vn/storage/360/sonet/cam-noc-den/05-d.png",
+        "https://kiavietnam.com.vn/storage/360/sonet/vang-cat-noc-den/05-d.png",
+        "https://kiavietnam.com.vn/storage/360/sonet/do-noc-den/05-d.png"
+      ],
+      "image": "https://kiavietnam.com.vn/storage/kia-viet-nam/hinh-anh/suv-5.png",
+      "content": "Sở hữu kích thước tối ưu, không gian bên trong rộng rãi; kiểu dáng cá tính, thể thao; vận hành linh hoạt, an toàn và hiệu quả kinh tế, Kia Sonet “thổi” một làn gió mới cho phân khúc SUV, hứa hẹn mang lại thành công về doanh số, góp phần khẳng định vị thế, khởi đầu kỷ nguyên mới cho thương hiệu KIA.",
+      "count": 1,
+      "price": 519000000
+    },
+    {
+      "id": "7",
+      "name": "KIA Sorento",
+      "type": "suv",
+      "images": [
+        "https://kiavietnam.com.vn/storage/sorento-redpng.jpg",
+        "https://kiavietnam.com.vn/storage/sorento-glacia-white-pearl-7cho.jpg",
+        "https://kiavietnam.com.vn/storage/sorento-mineral-blue-6-cho-nt-nau.jpg",
+        "https://kiavietnam.com.vn/storage/sorento-blackpng.jpg"
+      ],
+      "image": "https://kiavietnam.com.vn/storage/sorento-pngicon.png",
+      "content": "KIA Sorento 2021 là mẫu xe SUV 7 chỗ hoàn toàn mới, với thiết kế đột phá, nội thất sang trọng và trang bị công nghệ hiện đại. Sorento 2021 sẽ là sự lựa chọn hoàn hảo cho những gia đình trẻ, đông thành viên, yêu thích sự tiện nghi và an toàn.",
+      "count": 5,
+      "price": 979000000
+    },
+    {
+      "id": "8",
+      "name": "KIA Carnival",
+      "type": "suv",
+      "images": [
+        "https://kiavietnam.com.vn/storage/carnival-den-2.png",
+        "https://kiavietnam.com.vn/storage/carnival-xanhsam-1.png",
+        "https://kiavietnam.com.vn/storage/carnival-trang-1.png",
+        "https://kiavietnam.com.vn/storage/carnival-xam-2.png"
+      ],
+      "image": "https://kiavietnam.com.vn/storage/carnival-xanhxam.png",
+      "content": "Carnival là mẫu xe SUV đô thị có tính đa dụng, tiện nghi và sang trọng nhất ở thị trường Việt Nam, kết hợp sự năng động, mạnh mẽ đặc trưng của dòng xe SUV cùng không gian sang trọng, tiện nghi, ứng dụng nhiều công nghệ hiện đại tạo nên chuẩn mực mới trong phân khúc SUV.",
+      "count": 3,
+      "price": 1179000000
+    },
+    {
+      "id": "9",
+      "name": "KIA Seltos",
+      "type": "suv",
+      "images": [
+        "https://kiavietnam.com.vn/storage/360/seltos/do.png",
+        "https://kiavietnam.com.vn/storage/360/seltos/den.png",
+        "https://kiavietnam.com.vn/storage/360/seltos/vang.png",
+        "https://kiavietnam.com.vn/storage/360/seltos/xanh.png"
+      ],
+      "image": "https://kiavietnam.com.vn/storage/seltos-pngicon.png",
+      "content": "Mẫu xe SUV thế hệ mới của thương hiệu Kia kết hợp hoàn hảo giữa thiết kế mạnh mẽ, tỉ mỉ trong từng chi tiết cùng công nghệ hiện đại hàng đầu phân khúc.",
+      "count": 6,
+      "price": 604000000
+    },
+    {
+      "id": "10",
+      "name": "KIA Sportage",
+      "type": "suv",
+      "images": [
+        "https://kiavietnam.com.vn/storage/360/sportage/xanh-dam/bb2-62.webp",
+        "https://kiavietnam.com.vn/storage/360/sportage/do-tuoi/dd-62.webp",
+        "https://kiavietnam.com.vn/storage/360/sportage/trang/swp-62.webp",
+        "https://kiavietnam.com.vn/storage/360/sportage/xanh-nuoc-bien/xan-62.webp"
+      ],
+      "image": "https://kiavietnam.com.vn/storage/kia-viet-nam/hinh-anh/suv-1.png",
+      "content": "Mẫu xe ứng dụng thành tố Bold for Nature – Đậm Chất Tự Nhiên trong triết lý thiết kế mới. Lấy cảm hứng từ thiên nhiên và cuộc sống đương đại, Kia Sportage được nhấn mạnh bằng những đường nét táo bạo và dứt khoát, tạo nên một diện mạo đầy mạnh mẽ, hiện đại và ấn tượng.",
+      "count": 4,
+      "price": 799000000
+    },
+    {
+      "id": "11",
+      "name": "KIA Carens All New",
+      "type": "suv",
+      "images": [
+        "https://kiavietnam.com.vn/storage/360/carens/den/5-fusion-black.png",
+        "https://kiavietnam.com.vn/storage/360/carens/trang/5-white.png",
+        "https://kiavietnam.com.vn/storage/07-d-e.png",
+        "https://kiavietnam.com.vn/storage/bai-dang-2022/t11/kia-carens-tcbc/4-red.png"
+      ],
+      "image": "https://kiavietnam.com.vn/storage/carens-icon-3.png",
+      "content": "Kia Carens thế hệ mới được ứng dụng thành tố “Bold for Nature – Đậm chất tự nhiên” trong triết lý thiết kế mới “OPPOSITES UNITED” của Kia, lấy cảm hứng từ các đường nét năng động, mạnh mẽ của tự nhiên, tích hợp với các yếu tố hiện đại, sáng tạo của tương lai mang đến một sản phẩm hoàn hảo, khác biệt.",
+      "count": 2,
+      "price": 589000000
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "Username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "d569",
+      "Username": "kien",
+      "email": "minh@gmail.com",
+      "password": "222222",
+      "role": "member",
+      "cart": [
+        {
+          "name": "KIA New Morning",
+          "image": "https://kiavietnam.com.vn/storage/360/new-morning/mau-xanh.png",
+          "price": 349000000,
+          "quantity": 2
+        },
+        {
+          "name": "KIA New Morning",
+          "image": "https://kiavietnam.com.vn/storage/360/new-morning/trang.png",
+          "price": 349000000,
+          "quantity": 1
+        }
+      ],
+      "receipts": []
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+@import "bootstrap/scss/bootstrap.scss";
+
+$headerH: 60px;
+$footerH: 250px;
+
+.home-page {
+  width: 100%;
+  min-height: 100vh;
+  header {
+    height: $headerH;
+    // background-color: rgb(120, 250, 188);
+    position: fixed;
+    width: 100%;
+    top: 0;
+  }
+  .homepage-page-body {
+    min-height: calc(100vh - ($headerH));
+    background-color: rgb(255, 255, 255);
+  }
+  footer {
+    height: $footerH;
+    background-color: rgb(170, 161, 161);
+  }
+}
+
+.homepage-page-intro {
+  video {
+    position: relative;
+  }
+  p {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 30px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  span {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    color: white;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+  }
+}
+.homepage-page-info {
+  position: relative;
+  img {
+    // change color of image
+  }
+  span {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+  }
+  p {
+    position: absolute;
+
+    left: 50%;
+    color: white;
+    transform: translate(-50%, -252%);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+  }
+}

@@ -1,0 +1,177 @@
+.product-manager-box {
+  height: calc(100vh - 60px);
+  overflow-y: scroll;
+  overflow-x: hidden;
+  .create-box {
+    margin: 5px 0;
+  }
+  thead {
+    position: sticky;
+    top: 0;
+  }
+}
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+//   .jodit-toolbar-editor-collection {
+//     display: none !important;
+//   }
+
+.pictures {
+  display: flex;
+  .picture-box {
+    position: relative;
+    margin-right: 5px;
+    .over-x {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 1001;
+      border-radius: 50%;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      transition: all 0.2s;
+      background-color: rgba(black, 0.7);
+      cursor: pointer;
+      span:hover {
+        color: red;
+        transform: scale(1.3);
+      }
+      &:hover {
+        opacity: 1;
+        .over {
+          opacity: 1;
+        }
+      }
+    }
+  }
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Style the table header */
+table thead th {
+  background-color: #f2f2f2;
+  text-align: left;
+  padding: 8px;
+}
+
+/* Style the table body */
+table tbody td {
+  text-align: left;
+  padding: 8px;
+}
+
+/* Style the table rows */
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* Style the image */
+table img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+table tr:hover {
+  background-color: #ddd; // Change this to the color you want
+}
+td button {
+  padding: 5px 10px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Style the Edit button */
+td button:nth-child(1) {
+  background-color: #ffffff; /* Green */
+  color: rgb(0, 0, 0);
+  border: 1px solid #515458;
+  border-radius: 5px;
+  &:hover {
+    background-color: #515458;
+    color: white;
+  }
+}
+
+/* Style the buttons on hover */
+td button:hover {
+  opacity: 0.8;
+}
+
+/* Style the form */
+form {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Style the form groups */
+.form-group {
+  margin-bottom: 15px;
+}
+
+/* Style the labels */
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Style the inputs */
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+/* Style the submit button */
+.btn-primary {
+  background-color: #515458;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+:where(.css-dev-only-do-not-override-1k979oh).ant-modal .ant-modal-footer {
+  text-align: end;
+  background: transparent;
+  margin-top: 12px;
+  padding: 0;
+  border-top: none;
+  border-radius: 0;
+  display: none;
+}

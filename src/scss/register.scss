@@ -1,0 +1,61 @@
+body {
+  display: block;
+  margin: 0px;
+}
+
+.container-login {
+  h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    color: white;
+  }
+  &-email {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    label {
+      color: white;
+      margin-right: 79px;
+    }
+  }
+  &-password {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    label {
+      color: white;
+      margin-right: 50px;
+      margin-top: 20px;
+    }
+  }
+  button {
+    margin-top: 30px;
+    width: 400px;
+    height: 30px;
+    font-weight: 600;
+    border-radius: 40px;
+    background-color: rgba(240, 248, 255, 0.872);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &:hover {
+      background-color: rgb(3, 15, 24);
+      transition: 0.3s linear;
+      color: white;
+    }
+  }
+}
+#email {
+  color: rgb(240, 255, 240);
+}
+
+#password {
+  color: rgb(240, 255, 240);
+}
+#Username {
+  color: rgb(240, 255, 240);
+}
+
+#confirmpass {
+  color: rgb(240, 255, 240);
+}
